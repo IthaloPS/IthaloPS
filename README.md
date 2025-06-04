@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o [Seu Nome] 👋</h1>
+<h1 align="center">Olá, eu sou o Ithalo 👋</h1>
 
 <p align="center">
   💻 Desenvolvedor focado em <strong>PHP, Laravel, SQL, JavaScript e Python</strong><br>
