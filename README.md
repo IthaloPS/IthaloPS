@@ -42,7 +42,7 @@
 ## 📬 Contato
 
 - ✉️ **Email:** ithalops@gmail.com 
-- 💼 [LinkedIn]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/ithalo-pulcini-dos-santos-b94a38155/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/ithalo-pulcini-dos-santos-b94a38155/)
 
 ---
 
